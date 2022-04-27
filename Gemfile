@@ -77,3 +77,9 @@ end
 gem "importmap-rails", "~> 1.0"
 
 gem "jquery", "~> 0.0.1"
+
+
+gem "devise", "~> 4.8"
+
+
+gem 'spree', '~> 4.4'
